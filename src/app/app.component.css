@@ -1,0 +1,23 @@
+/* .container {
+    background-image: url('src/assets/background-image.jpg');
+    background-repeat:no-repeat;
+    background-size:1920px 1100px ;
+  } */
+
+  
+.margin1{
+  /* margin: 8px 30px 5px 60px; */
+  padding-top: 12px;
+  padding-left: 60px;
+}
+
+.margin{
+  /* margin: 8px 30px 5px 60px; */
+  padding-top: 11px;
+  /* padding-left: 60px; */
+}
+
+
+
+  
+

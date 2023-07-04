@@ -1,0 +1,56 @@
+.e-grid {
+    font-family: cursive;
+    /* opacity: ; */
+}
+.e-grid .e-row:hover .e-rowcell {
+    background-color: rgb(82, 12, 174) !important;
+    /* opacity: 0.6; */
+}
+.e-rowcell {
+    background-color: rgb(236, 16, 16);
+    /* opacity: 0.8; */
+}
+.e-grid .e-row.e-altrow {
+    background-color: rgb(14, 209, 209);
+    /* opacity: 0.6; */
+}
+.e-row {
+    background-color: rgb(62, 10, 193);
+    /* opacity: 0.6; */
+}
+
+/* .container {
+    background-image: url('src/assets/background-image.jpg');
+    background-size: auto;
+  } */
+
+
+ 
+
+.card {
+    background-color: #f7f5f5;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    width: 532px;
+    /* opacity: 0.7; */
+    align-items: center;
+    
+  }
+
+  #pad{
+    padding-left: 1200px;
+  }
+
+body {
+    margin: 0px ,0px, 0px 0px;
+    padding-top: 10px;
+    background-image: url('src/assets/back_img/manchester-united.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    /* background-position: 390px; */
+    /* opacity: 0.7; */
+  }
+
+
+    

@@ -1,0 +1,179 @@
+{
+  "MU_club": [
+    {
+      "id": 1,
+      "kitno": 1,
+      "Pname": "David De Gea (GK)",
+      "position": "GoalKeeper"
+    },
+    {
+      "id": 2,
+      "kitno": 8,
+      "Pname": "Bruno Fernandes (C)",
+      "position": "Midfielder"
+    },
+    {
+      "kitno": 19,
+      "Pname": "Raphael Varane",
+      "position": "Defender",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "kitno": 10,
+      "Pname": "Marcus Rashford",
+      "position": "Forward"
+    },
+    {
+      "id": 5,
+      "kitno": 21,
+      "Pname": "Antony",
+      "position": "Forward"
+    },
+    {
+      "kitno": 6,
+      "Pname": "Lisandro Martinez",
+      "position": "Defender",
+      "id": 6
+    },
+    {
+      "kitno": 23,
+      "Pname": "Luke Shaw",
+      "position": "Defender",
+      "id": 7
+    },
+    {
+      "kitno": 18,
+      "Pname": "Casemiro",
+      "position": "Midfielder",
+      "id": 8
+    },
+    {
+      "kitno": 17,
+      "Pname": "Fred",
+      "position": "Midfielder",
+      "id": 9
+    },
+    {
+      "kitno": 25,
+      "Pname": "Jaden Sancho",
+      "position": "Forward",
+      "id": 10
+    },
+    {
+      "kitno": 9,
+      "Pname": "Anthony Martial",
+      "position": "Forward",
+      "id": 11
+    },
+    {
+      "kitno": "100",
+      "Pname": "Varun",
+      "position": "Mid",
+      "id": "100"
+    },
+    {
+      "kitno": "45",
+      "Pname": "fafahs",
+      "position": "mid",
+      "id": "23"
+    }
+  ],
+  "MC_club": [
+    {
+      "id": 10,
+      "kitno": 17,
+      "Pname": "Kevin De Bruyne",
+      "position": "Midfielder"
+    },
+    {
+      "id": 11,
+      "kitno": 10,
+      "Pname": "Jack Grealish",
+      "position": "Midfielder"
+    },
+    {
+      "id": 12,
+      "kitno": 9,
+      "Pname": "Erling Haaland",
+      "position": "Forward"
+    },
+    {
+      "id": 13,
+      "kitno": 31,
+      "Pname": "Ederson (GK)",
+      "position": "GoalKeeper"
+    },
+    {
+      "id": 14,
+      "kitno": 6,
+      "Pname": "Nathan Kate",
+      "position": "Defender"
+    },
+    {
+      "id": 15,
+      "kitno": 2,
+      "Pname": "Kyle Walker",
+      "position": "Defender"
+    },
+    {
+      "id": 16,
+      "kitno": 47,
+      "Pname": "Phil Foden",
+      "position": "Midfielder"
+    },
+    {
+      "id": 17,
+      "kitno": 8,
+      "Pname": "Ilkay Gundogan (C)",
+      "position": "Defender"
+    },
+    {
+      "id": 18,
+      "kitno": 19,
+      "Pname": "Julian Alvarez",
+      "position": "Forward"
+    },
+    {
+      "id": 19,
+      "kitno": 20,
+      "Pname": "Bernando Silva",
+      "position": "Midfielder"
+    },
+    {
+      "id": 20,
+      "kitno": 26,
+      "Pname": "Riyad Mahrez",
+      "position": "Forward"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin123",
+      "confirmPassword": "admin123"
+    },
+    {
+      "id": 2,
+      "username": "user",
+      "password": "user123",
+      "confirmPassword": "user123"
+    },
+    {
+      "username": "Varun",
+      "password": "roman1",
+      "confirmPassword": "roman1",
+      "id": 3
+    },
+    {
+      "username": "Jugal",
+      "password": "juggs",
+      "confirmPassword": "juggs",
+      "id": 4
+    }
+  ],
+  "products": [
+    {}
+  ]
+}

@@ -1,0 +1,39 @@
+<!-- <body>
+  <div class="card ">
+    <div class="container">
+<form (ngSubmit)="loginUser()" #loginForm="ngForm">
+  <div class="form-group">
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username" class="form-control" [(ngModel)]="user.username" required>
+  </div>
+  <div class="form-group">
+    <label for="password">Password:</label>
+    <input type="text" id="password" name="password" class="form-control" [(ngModel)]="user.password" required>
+  </div>
+  <button class="bg-primary"type="submit" [disabled]="!loginForm.valid">Login</button>
+</form>
+</div>
+</div>
+</body> -->
+<body >
+  <div align="center" style="opacity: 0.8;">
+<div class="card " style="width: 36rem;">
+  <!-- <img class="card-img-top" src="..." alt="Card image cap"> -->
+  <div class="card-body">
+    <h5 class="card-title text-center" style="font-size: xx-large;">Login</h5>
+    <form (ngSubmit)="loginUser()" #loginForm="ngForm">
+    <div class="form-group">
+      <label for="username">Username:</label>
+      <input type="text" id="username" name="username" class="form-control" [(ngModel)]="user.username" required>
+    <br>
+    </div>
+    <div class="form-group">
+      <label for="password">Password:</label>
+      <input type="text" id="password" name="password" class="form-control" [(ngModel)]="user.password" required>
+    </div><br>
+    <button type="submit" [disabled]="!loginForm.valid">Login</button>
+  </form>
+  </div>
+</div>
+</div>
+</body>
